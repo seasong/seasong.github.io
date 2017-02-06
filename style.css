@@ -1,9 +1,9 @@
 .content {
-	font: 14px/1.3 宋体;
-	max-width : 1080px;
+	font: 14px/1.5 宋体;
+	max-width : 800px;
 	margin: 0 auto;
 }
 
-.medium img {
+.medium {
 	height: 200px;
 }
