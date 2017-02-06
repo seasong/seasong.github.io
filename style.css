@@ -1,5 +1,9 @@
-.content {
-	font: ËÎÌå 14px;
+ï»¿.content {
+	font: å®‹ä½“ 14px;
 	max-width : 1080px;
 	margin: 0 auto;
+}
+
+.medium img {
+	height: 200px;
 }
